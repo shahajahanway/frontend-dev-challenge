@@ -8,9 +8,9 @@ Improve frontend skills through daily practice and real progress.
 📅 Daily Progress
 Day	Project	Status	Folder
 
-Day 1	Bento Grid UI	✅ Completed	Day-1-Bento-Grid
+Day 1	Bento Grid UI	  ✅ Completed	Day-1-Bento-Grid
 
-Day 2	Coming Soon	⏳	—
+Day 2	Real-Estate-UI  ✅ Completed Day-2-Real-Estate-UI
 
 Day 3	Coming Soon	⏳	—
 
